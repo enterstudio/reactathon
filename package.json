@@ -99,7 +99,7 @@
     "promisify": "0.0.3",
     "react": "^0.14.6",
     "react-bootstrap": "^0.28.1",
-    "react-dom": "^0.14.6",
+    "react-dom": "^16.0.1",
     "react-input-autosize": "^0.6.6",
     "react-notification-system": "^0.2.6",
     "react-relay": "^0.8.1",
