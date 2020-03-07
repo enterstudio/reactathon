@@ -43,7 +43,7 @@
     "bcrypt": "^0.8.5",
     "body-parser": "~1.13.2",
     "browser-sync": "^2.10.1",
-    "browserify": "^12.0.1",
+    "browserify": "^15.0.0",
     "chai": "^3.4.1",
     "chai-as-promised": "^5.2.0",
     "chalk": "^1.1.1",
