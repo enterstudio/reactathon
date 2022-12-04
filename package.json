@@ -41,7 +41,7 @@
 
     "babelify": "^7.2.0",
     "bcrypt": "^0.8.5",
-    "body-parser": "~1.13.2",
+    "body-parser": "~1.19.2",
     "browser-sync": "^2.10.1",
     "browserify": "^12.0.1",
     "chai": "^3.4.1",
@@ -57,7 +57,7 @@
     "coveralls": "^2.11.6",
     "dotenv": "^1.2.0",
 
-    "express": "~4.13.1",
+    "express": "~4.17.3",
     "express-graphql": "^0.4.5",
     "express-phantom": "^0.1.2",
     "express-sequelize-session": "^0.4.0",
@@ -115,8 +115,8 @@
     "session-file-store": "0.0.24",
     "session-passport-info": "^0.0.3",
     "sqlite3": "^3.1.1",
-    "superagent": "^1.6.1",
-    "supertest": "^1.1.0",
+    "superagent": "^2.0.0",
+    "supertest": "^2.0.0",
     "validator": "^4.5.0",
 
     "winston": "^2.1.1"
