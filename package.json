@@ -64,12 +64,12 @@
     "express-session": "^1.12.1",
     "faker": "^3.0.1",
     "figlet": "^1.1.1",
-    "flow-bin": "^0.20.1",
+    "flow-bin": "^0.23.1",
     "graphiql": "^0.4.5",
     "graphql": "^0.4.14",
     "graphql-relay": "^0.3.6",
 
-    "hbs": "~3.1.0",
+    "hbs": "~4.0.1",
     "highlight.js": "^9.0.0",
     "history": "^1.17.0",
     "isparta": "^4.0.0",
@@ -115,8 +115,8 @@
     "session-file-store": "0.0.24",
     "session-passport-info": "^0.0.3",
     "sqlite3": "^3.1.1",
-    "superagent": "^1.6.1",
-    "supertest": "^1.1.0",
+    "superagent": "^9.0.0",
+    "supertest": "^7.0.0",
     "validator": "^4.5.0",
 
     "winston": "^2.1.1"
